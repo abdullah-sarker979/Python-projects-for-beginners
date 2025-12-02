@@ -1,21 +1,6 @@
-# Python-projects-for-beginners.
-A collection of beginner-friendly Python projects that helped me build a strong foundation in programming. Each project focuses on core concepts such as variables, loops, functions, file handling, and basic problem-solving. Ideal for practice, learning, or reference.
-
-
 # Beginner Python Projects
 
-This repository contains a curated set of beginner-level Python projects that I built while learning the fundamentals of programming. Each project is simple, readable, and focused on mastering core concepts such as:
-
-- Variables and data types  
-- Conditionals  
-- Loops  
-- Functions  
-- Lists, tuples, and dictionaries  
-- Basic algorithms  
-- File handling  
-- Working with modules  
-
-The goal of this repo is not to show off advanced skills but to demonstrate consistent practice, clean code, and steady improvement.
+This repository contains a set of beginner-friendly Python projects I built while learning core programming concepts. These small games and scripts focus on logic, user interaction, randomness, and basic algorithms. The goal is to practice writing clean, readable code and improve step by step.
 
 ---
 
@@ -23,22 +8,20 @@ The goal of this repo is not to show off advanced skills but to demonstrate cons
 
 | Project | Description | Concepts Used |
 |--------|-------------|----------------|
-| **Calculator** | A simple four-operation calculator. | Functions, input handling |
-| **Number Guessing Game** | Guess a random number within a range. | Loops, random module |
-| **Rock Paper Scissors** | Play against the computer. | Conditionals, functions |
-| **Password Generator** | Creates random passwords with mixed characters. | Strings, random, loops |
-| **To-Do List (CLI)** | Add, remove, and view tasks in the terminal. | Lists, file handling |
-| **Dice Roller** | Simulates dice rolls of different sizes. | Functions, random |
-| **Slot Machine (Basic)** | Simple slot machine logic using lists and loops. | Loops, lists, random |
-
-*(Delete or add projects depending on what you upload.)*
+| **Choose Your Own Adventure** | An interactive story where player decisions change the outcome. | Conditionals, branching logic, functions |
+| **Madlibs Generator** | Generates funny stories based on user-provided words. | Strings, input handling |
+| **Pig Game** | A digital version of the classic dice-rolling game. | Loops, random module, game logic |
+| **Number Guesser** | Player guesses a randomly generated number within a limit. | Loops, conditionals, random |
+| **Timed Math Challenge** | Solve math problems before time runs out. | time module, conditionals, loops |
+| **Quiz Game** | Multiple-choice quiz with scoring. | Dictionaries, loops, functions |
+| **Turtle Racing** | A simple racing simulation using the turtle graphics module. | turtle module, loops, graphics |
 
 ---
 
 ## How to Run
 
-1. Install Python (version 3.8 or higher recommended).
+1. Install Python 3.8 or higher.
 2. Clone the repository:
 
 ```bash
-https://github.com/abdullah-sarker979/Python-projects-for-beginners.
+git clone https://github.com/abdullah-sarker979/Python-projects-for-beginners.git
